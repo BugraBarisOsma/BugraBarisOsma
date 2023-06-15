@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bugra Baris Osma</h1>
 <h3 align="center">4th grade Computer Engineering student at Eskisehir Technical University</h3>
 
-- 🌱 I’m currently learning **node.js , JavaScript , TypeScript**
+- 🌱 I’m currently learning **Node.JS , JavaScript , TypeScript**
 
-- 💬 Ask me about **Java ,JavaScript TypeScript**
+- 💬 Ask me about **Java , JavaScript , TypeScript , Node.JS**
 
 - 📫 How to reach me **bugrabarisosma@gmail.com**
 
