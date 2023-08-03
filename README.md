@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bugra Baris Osma</h1>
-<h3 align="center">4th grade Computer Engineering student at Eskisehir Technical University</h3>
+<h3 align="center"> Computer Engineering </h3>
 
 - 🌱 I’m currently learning **Node.JS , JavaScript , TypeScript**
 
