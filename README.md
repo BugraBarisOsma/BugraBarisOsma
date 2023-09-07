@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bugra Baris Osma</h1>
 <h3 align="center"> Computer Engineer </h3>
 
-- 🌱 I’m currently learning **Node.JS , JavaScript , TypeScript**
+- 🌱 I’m currently learning **Java , Spring , Node.JS , JavaScript , TypeScript**
 
 - 💬 Ask me about **Java , JavaScript , TypeScript , Node.JS**
 
