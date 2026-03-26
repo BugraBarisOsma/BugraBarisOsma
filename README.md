@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bugra Baris Osma</h1>
 <h3 align="center"> Computer Engineer </h3>
 
-- 🌱 I’m currently learning **C# , .NET (both Core & Framework), Python**
+- 🌱 I’m currently learning **C# , .NET (both Core & Framework)**
 
-- 💬 Ask me about **Java ,C# , .NET (both Core & Framework), Python**
+- 💬 Ask me about **Java ,C# , .NET (both Core & Framework)**
 
 - 📫 How to reach me **bugrabarisosma@gmail.com**
 
